@@ -1,6 +1,11 @@
 # Actividad 5: Construcción de Lógica de Negocio y Pruebas Unitarias Automatizadas
-**Materia:** Construcción de Lógica de Negocio (CLN)  
-**Equipo:** 14 — Proyecto PIA: **CargoBox** (Logística y Envíos Express)  
+* **Materia:** Componentes de Lógica de Negocios
+* **Unidad:** 5
+* **Equipo:** 14 (CargoBox)
+* **Integrantes:** 
+  * Pedro Omar Cardona Alvarez — Matrícula 2226579
+  * Kloudenn Jafed Jiménez Valdivieso — Matrícula 2226639
+  * Leonardo Acosta Morales — Matrícula 2226717
 
 ## Estructura del Proyecto
 
